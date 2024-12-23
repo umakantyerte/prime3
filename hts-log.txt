@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 29 Aug 2024 15:14:38 at https://htmldemo.zcubethemes.com/qeducato/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://htmldemo.zcubethemes.com/qeducato/index.html -O1 "C:\My Web Sites\examination" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:19:32	Error: 	"Read error when decompressing" (-1) at link https://htmldemo.zcubethemes.com/qeducato/img/bg/active-dote.png (from https://htmldemo.zcubethemes.com/qeducato/css/style.css)
+15:19:32	Error: 	"Read error when decompressing" (-1) at link https://htmldemo.zcubethemes.com/qeducato/img/bg/dote.png (from https://htmldemo.zcubethemes.com/qeducato/css/style.css)
+15:19:32	Error: 	"Read error when decompressing" (-1) at link https://htmldemo.zcubethemes.com/qeducato/images/quote_bg.png (from https://htmldemo.zcubethemes.com/qeducato/css/style.css)
+15:19:32	Error: 	"Read error when decompressing" (-1) at link https://htmldemo.zcubethemes.com/qeducato/img/bg/c-object.png (from https://htmldemo.zcubethemes.com/qeducato/index-2.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 54 seconds : 241 links scanned, 236 files written (62213458 bytes overall) [61649586 bytes received at 209692 bytes/sec], 787196 bytes transferred using HTTP compression in 25 files, ratio 20%
+(4 errors, 0 warnings, 0 messages)
